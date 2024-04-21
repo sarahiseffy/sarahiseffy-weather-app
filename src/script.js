@@ -9,3 +9,5 @@ cityElement.innerHTML = `${searchInput.value}`; // this will change the city ele
 
 let searchFormElement = document.querySelector("#search-form-id"); //targets the search form
 searchFormElement.addEventListener("submit", handleSearchSubmit); //this will activate the button whenever the user clicks the search button
+
+
