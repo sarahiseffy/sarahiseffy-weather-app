@@ -66,7 +66,10 @@ padding: 30px 0;
     line-height: 24px;
     font-weight: 500;
 }
-
+.humidity, .wind {
+    color: red;
+    font-weight: bold;
+}
 .weather-app-temperature {
 
     display: flex;
